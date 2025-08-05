@@ -1,0 +1,1 @@
+Hello, thatis a sample file. This file contains sample text.
