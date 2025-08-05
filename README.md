@@ -34,3 +34,8 @@ The program is also wrapped in try-catch-finally blocks to gracefully handle exc
 This task is an excellent example of how to handle files using Java. It teaches students or beginners how to interact with files dynamically and safely, while also introducing them to common coding patterns such as reading user input, modifying content, and exception handling. This practical task is not just limited to academics; it reflects real-world scenarios where logs, configuration files, or stored data need to be accessed and modified.
 
 In summary, the FileHandler Java application offers a clear and practical understanding of file operations, user input handling, and text replacement logic. By using VS Code as the development environment, the project workflow becomes smooth and efficient, supported by a modern interface and useful developer tools. This combination of Java and VS Code provides an effective setup for building, testing, and learning file handling in a beginner-friendly way.
+
+
+**OUTPUT**
+
+<img width="1429" height="406" alt="Image" src="https://github.com/user-attachments/assets/ca0ba8fe-e9d0-4c37-9928-0982405f9550" />
